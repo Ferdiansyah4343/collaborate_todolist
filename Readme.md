@@ -21,13 +21,13 @@ This is a web application for task collaboration where users can create task lis
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/task-collaboration-app.git
+    git clone https://github.com/Ferdiansyah4343/collaborate_todolist.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd task-collaboration-app
+    cd colllaborate_todolist
     ```
 
 3. Install dependencies:
@@ -37,12 +37,6 @@ This is a web application for task collaboration where users can create task lis
     ```
 
 4. Set up the database:
-
-    ```bash
-    flask db init
-    flask db migrate
-    flask db upgrade
-    ```
 
 5. Run the application:
 
@@ -59,10 +53,3 @@ This is a web application for task collaboration where users can create task lis
 3. Add, edit, or delete tasks within your task lists.
 4. Collaborate with others by sharing your task lists with them.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
